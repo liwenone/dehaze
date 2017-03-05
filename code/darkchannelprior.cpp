@@ -3,7 +3,6 @@
 
 void DarkChannelPrior::SetArgs(bool _is_guided, bool _is_sky, bool _is_sample, bool _is_fast, int _min_filter_R, int _guided_filter_R, int _sky_K, int _clahe_clip, int _clahe_size, int _sample)
 {
-
     // 固定参数
     dehaze_factor = 0.95;
     trans_factor = 0.1;

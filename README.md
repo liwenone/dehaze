@@ -23,7 +23,7 @@ In my implementation, using the __sampling technique__ to faster the processing.
 ## Result
 - ui
 
-    ![image](https://github.com/lwvoid/dehaze/tree/master/screenshots/dehaze.jpg)
+    ![image](https://github.com/lwvoid/dehaze/blob/master/screenshots/dehaze.jpg)
 
 - before
 

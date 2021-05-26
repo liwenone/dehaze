@@ -23,12 +23,12 @@ In my implementation, using the __sampling technique__ to faster the processing.
 ## Result
 - ui
 
-    ![image](https://github.com/lwvoid/dehaze/blob/master/screenshots/dehaze.jpg)
+    ![image](https://github.com/liwenone/dehaze/blob/master/screenshots/dehaze.jpg)
 
 - before
 
-    ![image](https://github.com/lwvoid/dehaze/blob/master/screenshots/dehaze_before.jpg)
+    ![image](https://github.com/liwenone/dehaze/blob/master/screenshots/dehaze_before.jpg)
 
 - after
 
-    ![image](https://github.com/lwvoid/dehaze/blob/master/screenshots/dehaze_after.jpg)
+    ![image](https://github.com/liwenone/dehaze/blob/master/screenshots/dehaze_after.jpg)
